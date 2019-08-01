@@ -1,0 +1,23 @@
+div.div_menu{
+  background-color: black;
+}
+table.menu{
+  margin-bottom:10px;
+}
+a.menu{
+  text-transform:uppercase;
+  font:25px serif;
+  color:white;
+}
+img.slider{
+  height:45%;
+  width:45%;
+}
+footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+div.footer{
+  font:25px serif;
+}
